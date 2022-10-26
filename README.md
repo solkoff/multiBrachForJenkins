@@ -1,3 +1,6 @@
+This is specifically created to tested cretion of Multibrach piliple in jenkins
+it has 3 Jenkinsfiles for each of the branches
+
 ## What this does?
 This repo is best used with my Udemy course "Rocking DevOps with Jenkins". Discounted Udemy course link in www.cloudwithraj.com.
 
