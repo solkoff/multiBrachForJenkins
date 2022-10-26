@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Submit Stack') {
             steps {
-              echo 'this is PROD branch'
+              echo 'this is DEV branch'
             }
         }
     }
